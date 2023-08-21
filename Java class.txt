@@ -1,0 +1,14 @@
+L1
+WAP to map week day with number(1-7)
+WAP to create a questioning game(use random)
+WAP to create a calculator
+
+
+L2
+WAP to find greatest no between three no 
+WAP to create a login system
+
+L3
+WAP to create a luckey draw
+WAP to calculate highest no of nodes in a number
+
