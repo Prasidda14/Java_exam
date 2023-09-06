@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-public class Homework {
+public class Exam_Result {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int total_marks = 200;
         System.out.println("Enter the marks of English");
         int a = sc.nextInt();
@@ -31,9 +30,6 @@ public class Homework {
 
 
         }
+
     }
-
 }
-
-//WAP to create a result generator.
-//WAP to create billing system take only 1 item.

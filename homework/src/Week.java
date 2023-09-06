@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice {
+public class Week {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int Week_of_Day = 0 ;
@@ -34,5 +34,4 @@ public class Practice {
 
         }
     }
-
 }
